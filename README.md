@@ -1,2 +1,3 @@
 # PyWEB_HW-06_asyncio
-Home work #6 - Clean folder with asyncio
+## Home work #6 - Clean folder with asyncio
+Напишіть програму обробки папки "Хлам", яка сортує файли у вказаній папці за розширеннями за допомогою asyncio. Щоб переміщувати та перейменовувати файли, скористайтеся асинхронною версією pathlib: aiopath.
