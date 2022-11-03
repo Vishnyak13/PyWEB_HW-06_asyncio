@@ -3,7 +3,6 @@ import asyncio
 from time import time
 from aiopath import AsyncPath
 from aioshutil import copyfile, rmtree
-import logging
 from normalize import normalize
 
 parser = argparse.ArgumentParser(description='Sorting folder')
